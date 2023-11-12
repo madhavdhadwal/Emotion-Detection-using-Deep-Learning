@@ -1,4 +1,4 @@
 To view ppt:
-Click to Emotion Detection folder
-Click on "ppt on the project" to view the ppt.
-Click on "view ppt"
+Click on Emotion Detection folder
+Click on "ppt on the project".
+Click on "view ppt" to view.
